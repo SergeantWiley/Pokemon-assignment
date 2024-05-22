@@ -1,0 +1,165 @@
+{
+    "Logistics": {
+        "Captain Rat": {
+            "abilities": [
+                "Underground Dig",
+                "Movement Speed"
+            ],
+            "weight": 0.35
+        }
+    },
+    "Infantry": {
+        "Corporal Rat": {
+            "abilities": [
+                "Movement Speed",
+                "Recon"
+            ],
+            "weight": 1
+        },
+        "Private Mouse": {
+            "abilities": [
+                "Movement Speed"
+            ],
+            "weight": 0.35
+        },
+        "Scorpion Tank": {
+            "abilities": [
+                "Missiles",
+                "Cannons",
+                "Machine Guns"
+            ],
+            "weight": 0.3
+        }
+    },
+    "Naval": {
+        "Commodore Rat": {
+            "abilities": [
+                "Float",
+                " Commands"
+            ],
+            "weight": 2.0
+        }
+    },
+    "Medical": {
+        "Medical Rat": {
+            "abilities": [
+                "Heal",
+                " Regen",
+                " Movement Speed"
+            ],
+            "weight": 0.5
+        }
+    },
+    "Poltical": {
+        "Senator Mouse": {
+            "abilities": [
+                "Poltics",
+                " Corruption"
+            ],
+            "weight": 1.0
+        }
+    },
+    "Corporate": {
+        "Corporate Rat": {
+            "abilities": [
+                "Minipulative",
+                " Funding"
+            ],
+            "weight": 2.6
+        }
+    },
+    "Demolish": {
+        "Demolish Rat": {
+            "abilities": [
+                "Destroy",
+                "Break Down"
+            ],
+            "weight": 10.0
+        }
+    },
+    "Command": {
+        "Remy": {
+            "abilities": [
+                "Commander in Chief"
+            ],
+            "weight": 0.56
+        },
+        "Emul": {
+            "abilities": [
+                "Department of Commerce"
+            ],
+            "weight": 0.69
+        },
+        "Commander Rat": {
+            "abilities": [
+                "Command"
+            ],
+            "weight": 0.69
+        }
+    },
+    "Recon": {
+        "Sergeant R Yapper": {
+            "abilities": [
+                "Vision",
+                "Range"
+            ],
+            "weight": 0.421
+        }
+    },
+    "Hacker": {
+        "Hacker Rat": {
+            "abilities": [
+                "Hack (Obvisouly)"
+            ],
+            "weight": 50.0
+        }
+    },
+    "Capitalist": {
+        "Capitalist Rat": {
+            "abilities": [
+                "Money"
+            ],
+            "weight": 3.14
+        }
+    },
+    "Artillery": {
+        "Artillery Rat": {
+            "abilities": [
+                "Pressure Power",
+                "Range"
+            ],
+            "weight": 2.5
+        }
+    },
+    "Infiltration": {
+        "Commander Chicken": {
+            "abilities": [
+                "Invisible",
+                " Flight"
+            ],
+            "weight": 25.0
+        },
+        "Fly's": {
+            "abilities": [
+                "Be annoying"
+            ],
+            "weight": 0.25
+        }
+    },
+    "Feeding": {
+        "Ant Drone": {
+            "abilities": [
+                "Really Slow"
+            ],
+            "weight": 0.25
+        }
+    },
+    "Chemical": {
+        "Bio-Chemical-Alpha3": {
+            "abilities": [
+                "Bacterial Intelligence Increase"
+            ],
+            "weight": 0.0063
+        }
+    }
+}
